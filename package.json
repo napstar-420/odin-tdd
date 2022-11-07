@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest lib/*.js",
+    "test": "jest lib/*",
     "build": "babel src -d lib"
   },
   "keywords": [],
